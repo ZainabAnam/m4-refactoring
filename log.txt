@@ -1,2 +1,5 @@
-d7b1c56 (HEAD -> main, origin/main, origin/HEAD) Task 1.1 completed
+7974fe6 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 Completed
+cb1dce8 Task 1.1 Fixes
+4a24e8d Task 1.2 completed
+d7b1c56 Task 1.1 completed
 202ee2f Initial commit
