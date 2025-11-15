@@ -3,7 +3,8 @@ package theater;
 /**
  * Constants used in this program.
  */
-public class Constants {
+public final class Constants {
+
     // volume constants
     public static final int BASE_VOLUME_CREDIT_THRESHOLD = 30;
     public static final int COMEDY_EXTRA_VOLUME_FACTOR = 5;
@@ -29,4 +30,8 @@ public class Constants {
     public static final int PASTORAL_OVER_BASE_CAPACITY_PER_PERSON = 2500;
     public static final int PASTORAL_AUDIENCE_THRESHOLD = 20;
     public static final int PASTORAL_VOLUME_CREDIT_THRESHOLD = 20;
+
+    private Constants() {
+
+    }
 }
